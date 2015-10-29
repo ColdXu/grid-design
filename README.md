@@ -18,33 +18,33 @@
 ![ABC](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/icon.gif) 
 
 1.超小屏幕 手机 = 320px
-
 2.小屏幕 平板 = 720px
-
 3.中等屏幕 桌面显示器 = 940px
-
 4.大屏幕 大桌面显示器 = 1140px
-
-这里的宽度是指页面实际内容宽度
+<code>(这里的宽度是指页面实际内容宽度)</code>
 
 实例
 =================
-用栅格化设计做四种不同设备尺寸设计。
+用12列栅格设计四种不同设备尺寸。
+<code>grid = 栅格数,蓝色区域画出栅格数</code>
+
 Then we start！
 
-1.大屏幕 大桌面显示器1140px尺寸下
+
 ![ABC](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/1.gif)
+1.大屏幕 大桌面显示器1140px尺寸下。
 
 
-2.中等屏幕 桌面显示器1140px尺寸下
 ![ABC](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/2.gif)
+2.中等屏幕 桌面显示器940px尺寸下，由于宽度变小，头部导航栏grid为7。
 
 
-3.小屏幕 平板1140px尺寸下
 ![ABC](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/3.gif)
+3.小屏幕 平板720px尺寸下，头部栅格数变化，文字内容grid为12,两列变成了一列。
 
 
-4.超小屏幕 手机320px尺寸下
 ![ABC](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/4.gif)
+4.超小屏幕 手机320px尺寸下，导航栏文字过多，替换成了按钮。
+
 
 
