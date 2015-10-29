@@ -9,7 +9,11 @@
 ![ABC](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/11.gif) 
 
 
+约定
+=================
+
 通常我们会把网页分成12等分，会有4种适用于不同尺寸设备屏幕的方案，设计师只要遵循以下网页宽度运用栅格化方式设计就可以。
+![ABC](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/icon.gif) 
 
 1.超小屏幕 手机 ＝auto
 
