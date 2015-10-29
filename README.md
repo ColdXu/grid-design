@@ -35,22 +35,21 @@ Then we start！
 ![ABC]()
 1.大屏幕 大桌面显示器1140px尺寸下。
 
-[查看]: https://raw.githubusercontent.com/ColdXu/grid-design/master/img/1.gif "查看"
-
+<a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/1.gif">查看</a>
 
 2.中等屏幕 桌面显示器940px尺寸下，由于宽度变小，头部导航栏grid为7。
 
-[查看]: https://raw.githubusercontent.com/ColdXu/grid-design/master/img/2.gif "查看"
+<a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/2.gif">查看</a>
 
 
 3.小屏幕 平板720px尺寸下，头部栅格数变化，文字内容grid为12,两列变成了一列。
 
-[查看]: https://raw.githubusercontent.com/ColdXu/grid-design/master/img/3.gif "查看"
+<a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/3.gif">查看</a>
 
 
 4.超小屏幕 手机320px尺寸下，导航栏文字过多，替换成了按钮。
 
-[查看]: https://raw.githubusercontent.com/ColdXu/grid-design/master/img/3.gif "查看"
+<a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/4.gif">查看</a>
 
 
 
