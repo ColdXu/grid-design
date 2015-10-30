@@ -34,26 +34,25 @@
 Then we start！
 
 
-1.大屏幕 大桌面显示器1140px尺寸下。
+-大屏幕 大桌面显示器1140px尺寸下。
 
-<a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/1.gif" target="_blank">查看</a>
-
-
-2.中等屏幕 桌面显示器940px尺寸。由于宽度变小，头部导航栏grid为7。
-
-<a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/2.gif" target="_blank">查看</a>
+<!-- <a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/1.gif" target="_blank">查看</a> -->
 
 
+-中等屏幕 桌面显示器940px尺寸。由于宽度变小，头部导航栏grid为7。
 
-3.小屏幕 平板720px尺寸。头部栅格数变化，文字内容grid为12,两列变成了一列。
-
-<a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/3.gif" target="_blank">查看</a>
+<!-- <a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/2.gif" target="_blank">查看</a> -->
 
 
 
-4.超小屏幕 手机320px尺寸。导航栏文字过多，替换成了按钮。
+-小屏幕 平板720px尺寸。头部栅格数变化，文字内容grid为12,两列变成了一列。
 
-<a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/4.gif" target="_blank">查看</a>
+<!-- <a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/3.gif" target="_blank">查看</a> -->
+
+
+-超小屏幕 手机320px尺寸。导航栏文字过多，替换成了按钮。
+
+<!-- <a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/4.gif" target="_blank">查看</a> -->
 <a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/设计.gif" target="_blank">整体对比图</a>
 
 
