@@ -17,7 +17,7 @@
 * 中等屏幕 桌面显示器 = 940px
 * 大屏幕 大桌面显示器 = 1140px
 
-[PSD模板文件下载](https://github.com/ColdXu/grid-design/raw/master/%E6%A0%85%E6%A0%BC%E6%A8%A1%E6%9D%BF.rar)
+[PSD模板文件下载](https://github.com/ColdXu/grid-design/raw/master/%E6%A0%85%E6%A0%BC%E6%A8%A1%E6%9D%BF.rar)</br>
 <code>建议使用最新版[Photoshop CC 2015](http://www.52pojie.cn/forum.php?mod=viewthread&tid=376249&from=album)，因为支持画板。</code>
 
 实例
@@ -48,14 +48,14 @@
 =================
 <div id="jump"></div>
 
-手机端设计稿基准尺寸为375px，普通屏显示正常，但在retina屏幕下会出现图片模糊问题。
+* 手机端设计稿基准尺寸为375px，普通屏显示正常，但在retina屏幕下会出现图片模糊问题。
 </br>
-对于retina屏幕，为了达到高清效果，视觉稿的画布大小会是基准的2倍，也就是说像素点个数是原来的4倍（对iphone6而言：原先的375×667，就会变成750×1334）。所以手机端设计稿尺寸是750px。[参考移动端高清、多屏适配方案](http://div.io/topic/1092?page=1#4713)
+* 对于retina屏幕，为了达到高清效果，视觉稿的画布大小会是基准的2倍，也就是说像素点个数是原来的4倍（对iphone6而言：原先的375×667，就会变成750×1334）所以手机端设计稿尺寸是<code>750px</code>。[参考移动端高清、多屏适配方案](http://div.io/topic/1092?page=1#4713)
 
 ###参考：
 [栅格系统设计](http://ued.taobao.org/blog/2008/09/grid_systems/)</br>
 [栅格设计页面展示](http://mediaqueri.es/)
 
 ###下载
-[PSD模板文件下载](https://github.com/ColdXu/grid-design/raw/master/%E6%A0%85%E6%A0%BC%E6%A8%A1%E6%9D%BF.rar)
+[PSD模板文件下载](https://github.com/ColdXu/grid-design/raw/master/%E6%A0%85%E6%A0%BC%E6%A8%A1%E6%9D%BF.rar)</br>
 [Photoshop CC 2015下载](http://www.52pojie.cn/forum.php?mod=viewthread&tid=376249&from=album)
