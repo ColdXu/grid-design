@@ -10,9 +10,10 @@
 =================
 
 通常我们会把网页分成12等分，会有4种适用于不同尺寸设备屏幕的方案，设计师需要遵循以下网页宽度使用栅格系统设计。
+[参考retina屏解决方案] (https://github.com/ColdXu/grid-design/blob/master/%E6%A0%85%E6%A0%BC%E6%A8%A1%E6%9D%BF.rar)
 ![ABC](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/icon.gif) 
 
-* 超小屏幕 手机 = 750px [详细点击] (#jump)
+* 超小屏幕 手机 = 750px [(参考retina屏解决方案)] (#jump)
 * 小屏幕 平板 = 720px
 * 中等屏幕 桌面显示器 = 940px
 * 大屏幕 大桌面显示器 = 1140px
@@ -44,16 +45,13 @@
 设计师一定确保内容不得超出栅格线以外，确定内容块所暂用栅格数，这样前端有依据在不同尺寸下用控制栅格数，达到自适应的目的。
 
 <!-- <a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/4.gif" target="_blank">查看</a> -->
-适应retina屏解决方案
+适应retina屏幕解决方案
 =================
 <div id="jump"></div>
 
 手机端设计稿基准尺寸为375px，普通屏显示正常，但在retina屏幕下会出现图片模糊问题。
-</br></br>
+</br>
 对于retina屏幕，为了达到高清效果，视觉稿的画布大小会是基准的2倍，也就是说像素点个数是原来的4倍（对iphone6而言：原先的375×667，就会变成750×1334）。所以手机端设计稿尺寸是750px。
-
-###下载模板
-
 
 ###参考：
 <a href="http://div.io/topic/1092?page=1#4713" target="_blank">移动端高清、多屏适配方案</a></br>
