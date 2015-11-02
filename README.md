@@ -12,12 +12,12 @@
 通常我们会把网页分成12等分，会有4种适用于不同尺寸设备屏幕的方案，设计师需要遵循以下网页宽度使用栅格系统设计。
 ![ABC](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/icon.gif) 
 
-* 超小屏幕 手机 = 750px [(参考retina屏解决方案)] (#jump)
+* 超小屏幕 手机 = 750px [(参考retina屏解决方案)](#jump)
 * 小屏幕 平板 = 720px
 * 中等屏幕 桌面显示器 = 940px
 * 大屏幕 大桌面显示器 = 1140px
 
-[PSD模板文件下载] (https://github.com/ColdXu/grid-design/raw/master/%E6%A0%85%E6%A0%BC%E6%A8%A1%E6%9D%BF.rar)
+[PSD模板文件下载](https://github.com/ColdXu/grid-design/raw/master/%E6%A0%85%E6%A0%BC%E6%A8%A1%E6%9D%BF.rar)
 
 实例
 =================
@@ -36,14 +36,13 @@
 * 小屏幕 平板720px尺寸
 > LOGO grid=9，导航栏grid＝3，使头部布局合理；主体文字grid=12,两列为一列。
 
-* 超小屏幕 手机750px尺寸(展示为375px，为了对比效果)
+* 超小屏幕 手机750px尺寸(页面显示为375px，750px是为了适应[return屏幕])
 > LOGO grid=4，导航栏grid=8，导航栏文字过多，替换成了按钮。
 
 例子中利用栅格数量的变化，使得布局发生改变，达到适应屏幕布局的目的<code>一行中总栅格要等于12，不能多也不可少</code>
 
 设计师一定确保内容不得超出栅格线以外，确定内容块所暂用栅格数，这样前端有依据在不同尺寸下用控制栅格数，达到自适应的目的。
 
-<!-- <a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/4.gif" target="_blank">查看</a> -->
 适应retina屏幕解决方案
 =================
 <div id="jump"></div>
