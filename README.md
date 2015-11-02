@@ -17,7 +17,7 @@
 * 中等屏幕 桌面显示器 = 940px
 * 大屏幕 大桌面显示器 = 1140px
 
-4种屏幕尺寸PSD文件模板[下载] (/ColdXu/grid-design/raw/master/%E6%A0%85%E6%A0%BC%E6%A8%A1%E6%9D%BF.rar)
+4种屏幕尺寸PSD文件模板[下载] (https://github.com/ColdXu/grid-design/raw/master/%E6%A0%85%E6%A0%BC%E6%A8%A1%E6%9D%BF.rar)
 
 实例
 =================
