@@ -13,7 +13,7 @@
 通常我们会把网页分成12等分，会有4种适用于不同尺寸设备屏幕的方案，设计师只要遵循以下网页宽度运用栅格化方式设计就可以。
 ![ABC](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/icon.gif) 
 
-1.超小屏幕 手机 = 750px(参考retina屏解决方案)</br>
+1.超小屏幕 手机 = 750px<a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/设计.gif" target="_blank">(参考retina屏解决方案)</a></br>
 2.小屏幕 平板 = 720px</br>
 3.中等屏幕 桌面显示器 = 940px</br>
 4.大屏幕 大桌面显示器 = 1140px</br>
@@ -25,7 +25,8 @@
 =================
 
 下面的页面用12列栅格设计四种不同设备尺寸。
-<code>grid = 栅格数,蓝色区域画出栅格数</code>
+<code>grid = 栅格数</code>
+</br>
 <a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/设计.gif" target="_blank">整体对比图</a>
 &nbsp;&nbsp;｜&nbsp;&nbsp;
 <a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/设计2.gif" target="_blank">栅格线视图对比图</a>
@@ -34,12 +35,15 @@
 -大屏幕 大桌面显示器1140px尺寸下。
 
 -中等屏幕 桌面显示器940px尺寸
+
 由于宽度变小，头部导航栏grid为7。
 
 -小屏幕 平板720px尺寸
+
 头部栅格数变化，文字部分grid为12,两列为一列。
 
 -超小屏幕 手机375px尺寸
+
 导航栏文字过多，替换成了按钮。
 
 
@@ -50,7 +54,10 @@
 适应retina(高清屏)解决方案
 =================
 
-手机端设计稿基准尺寸为375px，普通屏显示正常，但在retina屏幕下会出现图片模糊问题。
+手机端设计稿基准尺寸为375px，普通屏显示正常，但在retina屏幕下会出现图片模糊问题。</br>
 对于retina屏幕，为了达到高清效果，视觉稿的画布大小会是基准的2倍，也就是说像素点个数是原来的4倍（对iphone6而言：原先的375×667，就会变成750×1334）。所以手机端设计稿尺寸是750px。
-<a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/设计2.gif" target="_blank">栅格线视图对比图</a>
 
+###参考：
+<a href="http://div.io/topic/1092?page=1#4713" target="_blank">移动端高清、多屏适配方案</a></br>
+<a href="http://ued.taobao.org/blog/2008/09/grid_systems/" target="_blank">栅格系统设计</a></br>
+<a href="http://mediaqueri.es/" target="_blank">栅格设计页面展示</a>
