@@ -17,7 +17,7 @@
 * 中等屏幕 桌面显示器 = 940px
 * 大屏幕 大桌面显示器 = 1140px
 
-4种屏幕尺寸PSD文件模板[下载] (https://github.com/ColdXu/grid-design/raw/master/%E6%A0%85%E6%A0%BC%E6%A8%A1%E6%9D%BF.rar)
+[4种屏幕尺寸PSD文件模板下载] (https://github.com/ColdXu/grid-design/raw/master/%E6%A0%85%E6%A0%BC%E6%A8%A1%E6%9D%BF.rar)
 
 实例
 =================
@@ -50,9 +50,8 @@
 
 手机端设计稿基准尺寸为375px，普通屏显示正常，但在retina屏幕下会出现图片模糊问题。
 </br>
-对于retina屏幕，为了达到高清效果，视觉稿的画布大小会是基准的2倍，也就是说像素点个数是原来的4倍（对iphone6而言：原先的375×667，就会变成750×1334）。所以手机端设计稿尺寸是750px。
+对于retina屏幕，为了达到高清效果，视觉稿的画布大小会是基准的2倍，也就是说像素点个数是原来的4倍（对iphone6而言：原先的375×667，就会变成750×1334）。所以手机端设计稿尺寸是750px。[参考移动端高清、多屏适配方案](http://div.io/topic/1092?page=1#4713)
 
 ###参考：
-<a href="http://div.io/topic/1092?page=1#4713" target="_blank">移动端高清、多屏适配方案</a></br>
 <a href="http://ued.taobao.org/blog/2008/09/grid_systems/" target="_blank">栅格系统设计</a></br>
 <a href="http://mediaqueri.es/" target="_blank">栅格设计页面展示</a>
