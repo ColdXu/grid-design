@@ -23,12 +23,12 @@
 实例
 =================
 
-下面的页面使用的是我们事先约定好的四种不同尺寸的设计。
+下面的页面使用的是我们事先约定好的12列栅格系统的设计。
 <code>grid = 栅格数</code>
 </br>
-[整体对比图](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/img1.gif)
+[整体对比图](https://raw.githubusercontent.com/ColdXu/grid-design/master/page/index.html)
 &nbsp;&nbsp;｜&nbsp;&nbsp;
-[栅格线视图对比图](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/img2.gif)
+[栅格线对比图](https://raw.githubusercontent.com/ColdXu/grid-design/master/page/index2.html)
 </br>
 
 * 中等屏幕 桌面显示器940px尺寸
