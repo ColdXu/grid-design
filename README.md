@@ -6,14 +6,13 @@
 ![ABC](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/11.gif) 
 
 
-
 约定
 =================
 
 通常我们会把网页分成12等分，会有4种适用于不同尺寸设备屏幕的方案，设计师需要遵循以下网页宽度使用栅格系统设计。
 ![ABC](https://raw.githubusercontent.com/ColdXu/grid-design/master/img/icon.gif) 
 
-* 超小屏幕 手机 = 750px(参考retina屏解决方案)
+* 超小屏幕 手机 = 750px [详细点击](#jump)
 * 小屏幕 平板 = 720px
 * 中等屏幕 桌面显示器 = 940px
 * 大屏幕 大桌面显示器 = 1140px
@@ -32,15 +31,15 @@
 </br>
 
 * 中等屏幕 桌面显示器940px尺寸
-> 由于网页整体宽度变小，导航栏grid＝7，LOGO grid=5，导航栏宽度相对增加。
+> LOGO grid=5，导航栏grid＝7，导航栏宽度相对增加。
 
 * 小屏幕 平板720px尺寸
-> 导航栏grid＝3，LOGO grid=9，头部相对文字部分grid为12,两列为一列。
+> LOGO grid=9，导航栏grid＝3，使头部布局合理；主体文字grid=12,两列为一列。
 
-* 超小屏幕 手机375px尺寸
-> 导航栏文字过多，替换成了按钮。
+* 超小屏幕 手机750px尺寸(展示为375px，为了对比效果)
+> LOGO grid=4，导航栏grid=8，导航栏文字过多，替换成了按钮。
 
-例子中利用栅格数量的变化，使得布局发生改变，达到适应屏幕布局的目的。
+例子中利用栅格数量的变化，使得布局发生改变，达到适应屏幕布局的目的<code>一行中总栅格要等于12，不能多也不可少</code>
 设计师一定确保内容不得超出栅格线以外，确定内容块所暂用栅格数，这样前端有依据在不同尺寸下用控制栅格数，达到自适应的目的。
 
 <!-- <a href="https://raw.githubusercontent.com/ColdXu/grid-design/master/img/4.gif" target="_blank">查看</a> -->
@@ -53,7 +52,7 @@
 
 
 ###下载模板
-
+<span id="jump">()</span>
 
 ###参考：
 <a href="http://div.io/topic/1092?page=1#4713" target="_blank">移动端高清、多屏适配方案</a></br>
