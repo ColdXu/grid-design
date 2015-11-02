@@ -54,11 +54,11 @@
 
 ---------------------------------------
 
-##参考
+#### 参考
 [参考移动端高清、多屏适配方案](http://div.io/topic/1092?page=1#4713)
 [栅格系统设计](http://ued.taobao.org/blog/2008/09/grid_systems/)</br>
 [栅格设计页面展示](http://mediaqueri.es/)
 
-##下载
+#### 下载 
 [PSD模板文件下载](https://github.com/ColdXu/grid-design/raw/master/%E6%A0%85%E6%A0%BC%E6%A8%A1%E6%9D%BF.rar)</br>
 [Photoshop CC 2015下载](http://www.52pojie.cn/forum.php?mod=viewthread&tid=376249&from=album)
